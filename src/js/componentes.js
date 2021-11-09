@@ -27,7 +27,6 @@ export const crearTodoHtml = ( todo ) => {
     divTodoList.append( div.firstElementChild );
 
     return div.firstElementChild;
-
 }
 
 
